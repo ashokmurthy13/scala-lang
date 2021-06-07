@@ -1,6 +1,6 @@
 package com.scala.basics
 
-object FirstProgram extends App {
+object Variables extends App {
   /* Scala has 2 kinds of variables
    *   1. val - constant and cannot be reassigned. It's like final field in Java.
    *   2. var - can be reassigned. It's like non-final field in Java.
